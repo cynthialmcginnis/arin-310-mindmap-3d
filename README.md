@@ -4,7 +4,7 @@ An interactive 3D review map for **ARIN 310: Introduction to Artificial Intellig
 
 The map shows all eight units of the course as a constellation. Each unit is a colored star, and its concepts orbit around it. The units rise in course order, with Unit 1 at the bottom and Unit 8 at the top. Lines between colors connect ideas that carry across units. Students open any star to read the concept, write it back in their own words, mark it reviewed, and check themselves with a short quiz.
 
-**Live site:** `https://cynthialmcginnis.github.io/[REPO-NAME]/`
+**Live site:** `https://cynthialmcginnis.github.io/arin-310-mindmap-3d//`
 
 This is a study tool. It is not graded, and it sends no data anywhere.
 
